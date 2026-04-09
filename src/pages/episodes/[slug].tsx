@@ -42,7 +42,7 @@ const Episode: NextPage<EpisodeProps> = ({ episode }) => {
   return (
     <div className={styles.episode}>
       <Head>
-        <title>{episode.title} | Podcastr</title>
+        <title>{episode.title} | Podcastrr</title>
       </Head>
       <div className={styles.thumbnailContainer}>
         <Link href="/" passHref>
